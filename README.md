@@ -150,5 +150,5 @@ Please use Ref. [1] for the citation of the present code.
 
 
 # References
-- [1] Tatsuro Kawamoto and Teruyoshi Kobayashi, "Sequential locality of graphs and its hypothesis testing," arXiv:2111.11267 (2021).
+- [1] Tatsuro Kawamoto and Teruyoshi Kobayashi, "Sequential locality of graphs and its hypothesis testing," [arXiv:2111.11267 (2021)](https://arxiv.org/abs/2111.11267).
 - [2] Chris Ding and Xiaofeng He, "Linearized Cluster Assignment via Spectral Ordering," Proceedings of the Twenty-First International Conference on Machine Learning (ICML) (2004).
