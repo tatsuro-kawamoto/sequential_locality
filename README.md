@@ -99,7 +99,7 @@ This is a method that returns H<sub>G</sub> and z<sub>G</sub> test statistics an
 
 # ORGM.py
 `ORGM.py` is a random graph generator. 
-It generates an ORGM instance that has a desired strength of sequentially lcoal structure. 
+It generates an ORGM [1] instance that has a desired strength of sequentially lcoal structure. 
 
 ### Simple example
 ```
@@ -122,7 +122,7 @@ edgelist, valid = orgm.ORGM(
 
 
 # spectral.py
-`spectral.py` is an implementation of the spectral ordering. 
+`spectral.py` is an implementation of the spectral ordering [2]. 
 
 ### Simple example
 ```
@@ -148,4 +148,7 @@ inferred_sequence = spectral.spectral_sequence(
 # Citation
 Please use Ref. [1] for the citation of the present code.
 
-> [1] Tatsuro Kawamoto and Teruyoshi Kobayashi, "Sequential locality of graphs and its hypothesis testing," arxiv:*** (2021).
+
+# References
+- [1] Tatsuro Kawamoto and Teruyoshi Kobayashi, "Sequential locality of graphs and its hypothesis testing," arXiv:2111.11267 (2021).
+- [2] Chris Ding and Xiaofeng He, "Linearized Cluster Assignment via Spectral Ordering," Proceedings of the Twenty-First International Conference on Machine Learning (ICML) (2004).
